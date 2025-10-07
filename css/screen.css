@@ -1,0 +1,49 @@
+h1 {
+    color: #850001;
+    font-family: "Cinzel Decorative", Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    border-bottom: #850001;
+    border-bottom-style: solid;
+    border-width: 2px;
+
+}
+
+body {
+    text-align: center;
+    font-family: "Arima", 'Times New Roman', Times, serif;
+    color: #4f5448;
+    font-weight: 400;
+    background-image: url(../images/perkament.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    background-color: #efedde55;
+    padding: 1rem;
+}
+
+#hoofdletter {
+    color: #850001;
+    font-family: "Cinzel Decorative", Georgia, 'Times New Roman', Times, serif;
+    border-bottom: #850001;
+    font-size: 5rem;
+}
+
+.haas {
+    color: #768a55;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.schildpad {
+    color: #a96657;
+    font-weight: 300;
+    font-style: normal;
+}
+
+img {
+    width: 40%;
+}

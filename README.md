@@ -1,4 +1,4 @@
 # digital-experience
 
-not my first wesite
+not my first website
 woohoo
